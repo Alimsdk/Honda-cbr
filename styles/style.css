@@ -1,0 +1,97 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+header{
+    background-color: #264653;
+    width: 100%;
+}
+.nav-item{
+    margin-left: 15px;
+}
+nav a{
+    color: white!important;
+}
+
+/* banner section */
+
+ .banner-info{
+    
+    padding-left: 60px;
+}
+
+.banner-info h2{
+   font-size: 48px;
+   line-height: 72px;
+}
+
+.banner-info p{
+    font-weight: 300;
+    margin-bottom: 0;
+    line-height: 22px;
+    font-size: 18px;
+} 
+
+.banner-info button, .nav-item button, .blog-info button,.form-btn,.explore-btn{
+    background:#E76F51 ;
+}
+
+/* feature bike section */
+
+.feature-title p,.gallery-title{
+    color: #E76F51;
+}
+
+/* blog section */
+
+.blog-info h2{font-size: 28px;
+margin-top: 10px;
+padding: 0;}
+
+.blog-info p{font-size: 16px;
+color: #6C6C6C;}
+
+.blog{box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);}
+
+.heading-part{
+    color: #E76F51;
+}
+
+/* review */
+
+.customer-review{
+    background: #FFFFFF;
+border: 1px solid #DEDEDE;
+box-sizing: border-box;
+border-radius: 5px;
+
+}
+
+.customer-img{display: flex;
+    justify-content: center;}
+
+.customer-img img{
+    width: 149px;
+    height: 149px;
+    margin: 40px 87px;
+}
+.customer-review p{font-size: 14px;
+font-weight: 600;}
+.feedback{
+    /* padding:0 35px; */
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.fas,.far{
+    color: #E76F51;
+}
+
+.user{
+    border-radius: 50%;
+}
+
+
+
+
